@@ -8,6 +8,7 @@ This is a webscrapping project based on [ashaheedq vgchartzScrape](https://githu
 There were little to no changes in the proxies_gen.py code and, if at any, all of them were variable name changes. You can review the original code at [ashaheedq vgchartzScrape](https://github.com/ashaheedq/vgchartzScrape). This add on is necessary for working with free proxies. 
 
 #Scrapping VGChartz
+
 The main body of the project. A lot of the code is based on [ashaheedq vgchartzScrape](https://github.com/ashaheedq/vgchartzScrape), but there were a couple more changes in this one. 
 
 a) Disabled the multiprocessing part. 
