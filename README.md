@@ -22,3 +22,5 @@ d) Re-worked the saving and loading criteria for the dataframe once it is saved.
 e) Added a save module in order to export the .csv file. 
 
 All in all, this was a great first project in order to understand the BeautifulSoup4 web scrapping, and the criteria which need to be considered in order to make it work. The next part of this project is the visualization aspect of the data from VGChartz, in which I will intend to create dynamic_chartz using gganimate in R. 
+
+<p align="center"> <img src="https://github.com/HTiscar/WebScrappingVGC/blob/master/vgchartzcomplete.gif"></p>
